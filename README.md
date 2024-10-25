@@ -2,6 +2,7 @@
 
 This repository contains codes for the case study in the paper "Improving measurement error and representativeness in nonprobability surveys". 
 The paper is available on arXiv at the following link: 
+https://arxiv.org/abs/2410.18282.
 
 The original PEW survey data and detailed report are available at the following link: 
 https://www.pewresearch.org/methods/2023/09/07/comparing-two-types-of-online-survey-samples/
